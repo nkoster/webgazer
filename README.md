@@ -6,4 +6,4 @@ In the example page, you see a randomly fetched image from [picsum.photos](https
 
 I have the example working online here: https://aiui.w3b.net/
 
-This does not work really well in firefox, at least not for me. However, in Chrome or Chromium, it will blow your mind. I still have to figure out why this is working too slow in firefox. If you have any clue, please let me know.
+This does not work really well in firefox, at least not for me. However, in Chrome or Chromium, _it will blow your mind_. I still have to figure out why this is working too slow in firefox. If you have any clue, please let me know.
