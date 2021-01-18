@@ -1,4 +1,4 @@
-window.saveDataAcressSessions = true
+window.saveDataAcrossSessions = true
 
 const LOOK_DELAY = 1000
 const LEFT_CUTOFF = window.innerWidth / 4
