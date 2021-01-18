@@ -6,4 +6,4 @@ This does not work really well in firefox, at least not for me. However, in Chro
 
 In the example page, you can "swipe" an image to the left or to right hand side, only by looking to the left or right part of the screen for more than one second.
 
-I have a working example online here: https://aiui.w3b.net/
+I have the example working online here: https://aiui.w3b.net/
