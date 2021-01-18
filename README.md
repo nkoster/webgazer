@@ -1,6 +1,6 @@
 This is a UI example which makes use of your camera and AI, to attempt to understand to what part of the screen you're looking at.
 
-The example is taken from this [youtube video from Kyle](https://www.youtube.com/watch?v=6s2Ug-eVpVc). The AI is coming from a project called "[webgazer](https://webgazer.cs.brown.edu/)", from brown.edu.
+The example is based on this [youtube video from Kyle](https://www.youtube.com/watch?v=6s2Ug-eVpVc). The AI is coming from a project called "[webgazer](https://webgazer.cs.brown.edu/)", from brown.edu.
 
 In the example page, you see a randomly fetched image from [picsum.photos](https://picsum.photos). You can "swipe" an image to the left or to right hand side, only by looking to the left or right part of the screen for more than one second.
 
