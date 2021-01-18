@@ -5,3 +5,5 @@ The example is taken from this [youtube video from Kyle](https://www.youtube.com
 This does not work really well in firefox, at least not for me. However, in Chrome or Chromium, it will blow your mind.
 
 In the example page, you can "swipe" an image to the left or to right hand side, only by looking to the left or right part of the screen for more than one second.
+
+I have a working example online here: https://aiui.w3b.net/
